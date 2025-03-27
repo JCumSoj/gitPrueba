@@ -1,1 +1,2 @@
-print("Fichero python3 desde GitHub rama senior2")
+print("Fichero python3 desde GitHub rama senior1")
+print("Nueva línea fichero python 3 desde GitHub rama senior1")
